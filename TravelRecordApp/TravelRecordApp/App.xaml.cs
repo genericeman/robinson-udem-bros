@@ -10,7 +10,7 @@ namespace TravelRecordApp
         {
             InitializeComponent();
 
-            MainPage = new TravelRecordApp.MainPage();
+            MainPage = new NavigationPage(new MainePage());
         }
 
         protected override void OnStart()
