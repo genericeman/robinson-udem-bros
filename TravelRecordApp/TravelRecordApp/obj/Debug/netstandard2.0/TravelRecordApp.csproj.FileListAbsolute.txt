@@ -10,3 +10,11 @@
 /Users/williamrobinson/Projects/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/TravelRecordApp.dll
 /Users/williamrobinson/Projects/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/ref/TravelRecordApp.dll
 /Users/williamrobinson/Projects/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/TravelRecordApp.pdb
+/Users/williamrobinson/robinson-udem-bros/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/TravelRecordApp.csprojAssemblyReference.cache
+/Users/williamrobinson/robinson-udem-bros/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/williamrobinson/robinson-udem-bros/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/williamrobinson/robinson-udem-bros/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/TravelRecordApp.AssemblyInfoInputs.cache
+/Users/williamrobinson/robinson-udem-bros/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/TravelRecordApp.AssemblyInfo.cs
+/Users/williamrobinson/robinson-udem-bros/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/TravelRecordApp.dll
+/Users/williamrobinson/robinson-udem-bros/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/ref/TravelRecordApp.dll
+/Users/williamrobinson/robinson-udem-bros/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/TravelRecordApp.pdb

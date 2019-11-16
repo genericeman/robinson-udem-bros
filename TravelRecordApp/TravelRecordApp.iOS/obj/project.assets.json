@@ -1010,11 +1010,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/williamrobinson/Projects/TravelRecordApp/TravelRecordApp.iOS/TravelRecordApp.iOS.csproj",
+      "projectUniqueName": "/Users/williamrobinson/robinson-udem-bros/TravelRecordApp/TravelRecordApp.iOS/TravelRecordApp.iOS.csproj",
       "projectName": "TravelRecordApp.iOS",
-      "projectPath": "/Users/williamrobinson/Projects/TravelRecordApp/TravelRecordApp.iOS/TravelRecordApp.iOS.csproj",
+      "projectPath": "/Users/williamrobinson/robinson-udem-bros/TravelRecordApp/TravelRecordApp.iOS/TravelRecordApp.iOS.csproj",
       "packagesPath": "/Users/williamrobinson/.nuget/packages/",
-      "outputPath": "/Users/williamrobinson/Projects/TravelRecordApp/TravelRecordApp.iOS/obj/",
+      "outputPath": "/Users/williamrobinson/robinson-udem-bros/TravelRecordApp/TravelRecordApp.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1029,8 +1029,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/williamrobinson/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.csproj": {
-              "projectPath": "/Users/williamrobinson/Projects/TravelRecordApp/TravelRecordApp/TravelRecordApp.csproj"
+            "/Users/williamrobinson/robinson-udem-bros/TravelRecordApp/TravelRecordApp/TravelRecordApp.csproj": {
+              "projectPath": "/Users/williamrobinson/robinson-udem-bros/TravelRecordApp/TravelRecordApp/TravelRecordApp.csproj"
             }
           }
         }

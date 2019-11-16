@@ -1,6 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using System.Text;
 
 namespace TravelRecordApp
 {
@@ -10,7 +11,7 @@ namespace TravelRecordApp
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new MainePage());
+            MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart()

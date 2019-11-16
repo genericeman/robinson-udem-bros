@@ -1,17 +1,18 @@
 ﻿<Properties StartupConfiguration="{CAAF2BEE-A60F-4061-951D-B053C3467F90}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp/MainPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp/HomePage.xaml.cs">
     <Files>
       <File FileName="TravelRecordApp/MainPage.xaml" Line="13" Column="37" />
       <File FileName="TravelRecordApp/MainPage.xaml.cs" Line="26" Column="29" />
+      <File FileName="TravelRecordApp/HomePage.xaml.cs" Line="12" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TravelRecordApp" expanded="True">
             <Node name="TravelRecordApp" expanded="True">
-              <Node name="MainPage.xaml" expanded="True">
-                <Node name="MainPage.xaml.cs" selected="True" />
-              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="HomePage.xaml.cs" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
