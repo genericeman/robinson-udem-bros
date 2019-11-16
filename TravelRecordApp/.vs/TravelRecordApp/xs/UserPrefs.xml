@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CAAF2BEE-A60F-4061-951D-B053C3467F90}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp/MainPage.xaml.cs">
+    <Files>
+      <File FileName="TravelRecordApp/MainPage.xaml" Line="13" Column="37" />
+      <File FileName="TravelRecordApp/MainPage.xaml.cs" Line="26" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TravelRecordApp" expanded="True">
+            <Node name="TravelRecordApp" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TravelRecordApp.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TravelRecordApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.41CBBE34-BCEE-4A36-9151-A3979596A314" />
+</Properties>
